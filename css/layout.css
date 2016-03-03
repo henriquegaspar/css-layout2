@@ -1,1 +1,29 @@
 /*your custom CSS here*/
+
+.heading{
+	height: 80px;
+	padding-top: 20px;
+	border-bottom: 3px solid black;
+	position: fixed;
+	top: 0px;
+	width: 100%;
+}
+
+.main-content{
+	padding-top: 10%;
+}
+
+.box img{
+   width: 100%
+}
+
+.box{
+	padding: 10px 20px;
+
+}
+
+.footer{
+	position: fixed;
+	bottom: 0;
+	width: 100%;
+}
